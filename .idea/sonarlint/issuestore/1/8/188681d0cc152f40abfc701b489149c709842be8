@@ -1,0 +1,7 @@
+
+osquid:S1450"ZRemove the "mTitleField" field and declare it as a local variable in the relevant methods.(‹Ó’Ë
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±
+xsquid:S1450"^Remove the "mSolvedCheckBox" field and declare it as a local variable in the relevant methods.(œŞ›ƒúÿÿÿÿ
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±¾ê
+tsquid:S1450"ZRemove the "mTimeButton" field and declare it as a local variable in the relevant methods.(¶ìó•úÿÿÿÿ
+gsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ºÓ©¦8Ÿò–ôÀ+

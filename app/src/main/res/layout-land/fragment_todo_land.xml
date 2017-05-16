@@ -1,0 +1,50 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/todo_title_label"
+        style="?android:listSeparatorTextViewStyle" />
+
+    <EditText 
+        android:id="@+id/todo_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/todo_title_hint" />
+    
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/todo_details_label"
+        style="?android:listSeparatorTextViewStyle" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp" >
+
+        <Button
+            android:id="@+id/todo_date"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2" />
+
+	    <Button android:id="@+id/todo_time"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+            android:layout_weight="2" />
+	    
+        <CheckBox
+            android:id="@+id/todo_solved"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/todo_solved_label" />
+
+    </LinearLayout>
+    
+</LinearLayout>

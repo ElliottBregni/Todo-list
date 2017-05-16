@@ -1,0 +1,25 @@
+<resources>
+        <string name="app_name">Things</string>
+        <string name="hello_world">Hello world!</string>
+        <string name="action_settings">Settings</string>
+        <string name="todo_title_hint">Enter a title for the todo.</string>
+        <string name="todo_title_label">Title</string>
+        <string name="todo_details_label">Details</string>
+        <string name="todo_solved_label">Solved</string>
+        <string name="date_picker_title">Date of todo:</string>
+        <string name="new_todo">New Todo</string>
+        <string name="show_subtitle">Show Subtitle</string>
+        <string name="hide_subtitle">Hide Subtitle</string>
+        <string name="subtitle_format">%1$s todos</string>
+        <string name="delete_todo">Delete</string>
+        <string name="empty_list">To get started, create a New Crime.</string>
+        <string name="todo_due_text">Due Dates</string>
+        <string name="todo_report_text">Report </string>
+        <string name="todo_report"> %1$s! This Todo is scheduled to be due on %2$s, %3$s, and %4$s
+        </string>
+        <string name="todo_report_solved">The Todo is TooDone</string>
+        <string name="todo_report_undone"> This Todo is not Done</string>
+        <string name="todo_report_dueDate">This is due %s</string>
+
+
+</resources>

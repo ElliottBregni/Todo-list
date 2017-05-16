@@ -1,0 +1,13 @@
+/build
+/src/main/res/layout/fragment_todo1.xml
+/src/main/java/fsu/bignerdranch/elliottbregni/toodone/TodoJSONSerializer.java
+!/src/main/java/fsu/bignerdranch/elliottbregni/toodone/TodoJSONSerializer.java
+/src/main/java/fsu/bignerdranch/elliottbregni/toodone/Photo.java
+/src/main/java/fsu/bignerdranch/elliottbregni/toodone/PictureUtils.java
+/src/main/java/fsu/bignerdranch/elliottbregni/toodone/CrimeCameraFragment.java
+/src/main/java/fsu/bignerdranch/elliottbregni/toodone/CrimeLab.java
+/src/main/java/fsu/bignerdranch/elliottbregni/toodone/SingleFragmentActivity1.java
+/src/main/java/fsu/bignerdranch/elliottbregni/toodone/ImageFragment.java
+/src/main/java/fsu/bignerdranch/elliottbregni/toodone/CrimeCameraActivity.java
+/src/main/java/fsu/bignerdranch/elliottbregni/toodone/TodoLab.java
+!/src/main/java/fsu/bignerdranch/elliottbregni/toodone/TodoLab.java
